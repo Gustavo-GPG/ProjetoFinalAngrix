@@ -14,6 +14,7 @@ A aplicação possui as funcionalidades básicas de criar, ler, atualiazar e del
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Web" width="40" height="40"/> Spring Web  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Data JPA" width="40" height="40"/> Spring Data JPA  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Security" width="40" height="40"/> Spring Security
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 ---
 
 # 🖥️ Iniciando aplicação
@@ -38,3 +39,5 @@ Ou você pode seguir a documentação do site [git](https://git-scm.com/download
 ```bash
 mvn install
 ```
+
+❗ **Importante:** a versão do java precisa ser >= 17.
