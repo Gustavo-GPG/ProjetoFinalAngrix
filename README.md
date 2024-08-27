@@ -44,3 +44,6 @@ Para iniciar a aplicação navegue para a pasta src/main/java/com/betrybe/agrix/
 ⚠️**Atenção:** A aplicação usa por padrão a porta 8080 então certifique-se de tela disponível
 
 Agora é só abrir o navegador e colocar o endereço http://localhost:8080/
+---
+
+Este projeto foi guiado por requisitos pré-estabelecidos pela [Trybe](https://www.betrybe.com).
