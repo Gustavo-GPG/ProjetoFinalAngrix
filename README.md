@@ -36,4 +36,8 @@ Ou você pode seguir a documentação do site [git](https://git-scm.com/download
 mvn install
 ```
 
-❗ **Importante:** a versão do java precisa ser >= 17.
+Para iniciar a aplicação navegue para a pasta src/main/java/com/betrybe/agrix/AgrixApplication.java e inicie a aplicação.
+
+⚠️**Atenção:** A aplicação usa por padrão a porta 8080 então certifique-se de tela disponível
+
+Agora é só abrir o navegador e colocar o endereço http://localhost:8080/
