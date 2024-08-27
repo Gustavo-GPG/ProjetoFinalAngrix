@@ -15,6 +15,7 @@ A aplicação possui as funcionalidades básicas de criar, ler, atualiazar e del
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Data JPA" width="40" height="40"/> Spring Data JPA  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Security" width="40" height="40"/> Spring Security
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
 ---
 
 # 🖥️ Iniciando aplicação
